@@ -1,0 +1,25 @@
+{
+  "name": "old-ny",
+  "version": "0.0.1",
+  "description": "Old Ny Photos",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickpetton/old-ny.git"
+  },
+  "keywords": [
+    "photo"
+  ],
+  "author": "Nicholas Petton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickpetton/old-ny/issues"
+  },
+  "homepage": "https://github.com/nickpetton/old-ny#readme"
+}
